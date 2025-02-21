@@ -34,10 +34,10 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 23521489      | Võ Lưu Chí Thiện     |[Chi Thien](https://github.com/)                 |23520131@gm.uit.edu.vn   |
-| 2      | 23520959      | Trần Tuấn Minh        |[Tuan Minh](https://github.com)     |23520356@gm.uit.edu.vn   |
-| 3      | 23521517      | Đặng Hữu Thọ       |[Huu Tho](https://github.com)                 |23520588@gm.uit.edu.vn   |
-| 2      | 23521812      | Nguyễn Trường Vũ       |[Truong Vu](https://github.com)           |23521341@gm.uit.edu.vn   |
+| 1      | 23521489      | Võ Lưu Chí Thiện     |[Chi Thien](https://github.com/)                 |23521489@gm.uit.edu.vn   |
+| 2      | 23520959      | Trần Tuấn Minh        |[Tuan Minh](https://github.com)     |23520959@gm.uit.edu.vn   |
+| 3      | 23521517      | Đặng Hữu Thọ       |[Huu Tho](https://github.com)                 |23521517@gm.uit.edu.vn   |
+| 2      | 23521812      | Nguyễn Trường Vũ       |[Truong Vu](https://github.com)           |23521812@gm.uit.edu.vn   |
 
 
 ## SEMINAR
