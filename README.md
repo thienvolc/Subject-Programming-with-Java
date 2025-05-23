@@ -8,12 +8,10 @@
 <h1 align="center"><b>IS216 - LẬP TRÌNH JAVA</b></h1>
 
 
-
 ## BẢNG MỤC LỤC
 * [ Giới thiệu môn học](#gioithieumonhoc)
 * [ Giảng viên hướng dẫn](#giangvien)
 * [ Thành viên nhóm](#thanhvien)
-* [ Seminar](#seminar)
 * [ Đồ án môn học](#doan)
 
 
@@ -34,17 +32,12 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 23521489      | Võ Lưu Chí Thiện     |[Chi Thien](https://github.com/)                 |23521489@gm.uit.edu.vn   |
-| 2      | 23520959      | Trần Tuấn Minh        |[Tuan Minh](https://github.com)     |23520959@gm.uit.edu.vn   |
-| 3      | 23521517      | Đặng Hữu Thọ       |[Huu Tho](https://github.com)                 |23521517@gm.uit.edu.vn   |
-| 2      | 23521812      | Nguyễn Trường Vũ       |[Truong Vu](https://github.com)           |23521812@gm.uit.edu.vn   |
-
-
-## SEMINAR
-<a name="seminar"></a>
-Seminar nhóm: ...
+| 1      | 23521489      | Võ Lưu Chí Thiện     |[thienvolc](https://github.com/thienvolc)                 |23521489@gm.uit.edu.vn   |
+| 2      | 23520959      | Trần Tuấn Minh        |[TuanMinh1811](https://github.com/TuanMinh1811)     |23520959@gm.uit.edu.vn   |
+| 3      | 23521517      | Đặng Hữu Thọ       |[HthoReyy](https://github.com/HthoReyy)                 |23521517@gm.uit.edu.vn   |
+| 2      | 23521812      | Nguyễn Trường Vũ       |[doringu-123](https://github.com/doringu-123)           |23521812@gm.uit.edu.vn   |
 
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-Đồ án Nhóm: ...
+Đồ án Nhóm: **Hệ thống quản lý thuê ô tô**
